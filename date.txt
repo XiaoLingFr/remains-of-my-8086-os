@@ -1,0 +1,10 @@
+This was the remains of what I remember of my 8086 OS at the time.
+
+uh
+
+I dont know what else to say. But it was LOWKEY kind of trash icl.
+
+But here are some missing files:
+
+shell.asm <- loads at 0x20000
+hard_floppy_driver.asm <- included with kernel.asm
